@@ -1,4 +1,4 @@
-# 42Cursus
+# 42Course
 
 I transfered my 42 code assignments to a dedicated personal organization.
 
